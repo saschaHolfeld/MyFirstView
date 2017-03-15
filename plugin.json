@@ -4,6 +4,5 @@
     "namespace": "MyFirstView",
     "author": "Sascha Holfeld",
     "type": "backend",
-    "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider",
-		"shortDescription" : {"de": "","en": ""}
+    "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider"
 }
